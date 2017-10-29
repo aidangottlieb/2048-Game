@@ -5,7 +5,7 @@
 */
 
 public class GameGui {
-   public gameGui(int [][] numValues) {
+   public void gameGui(int [][] numValues) {
       System.out.println(" ________________________");
       for(int a = 0; a < numValues.length; a ++) {
          System.out.println("|     |     |     |     |");
